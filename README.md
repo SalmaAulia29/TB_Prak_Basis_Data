@@ -15,9 +15,9 @@ Setelah pemesanan dilakukan, bengkel akan mengonfirmasi jadwal dan memperbarui s
    - Dikonfirmasi  
    - Sedang Dikerjakan  
    - Selesai  
-   - Dibatalkan  
-4.Manajemen layanan servis (nama, deskripsi, harga, estimasi waktu)  
-5.Tampilan daftar booking dan histori booking  
+   - Dibatalkan
+4. Manajemen layanan servis (nama, deskripsi, harga, estimasi waktu)  
+5. Tampilan daftar booking dan histori booking  
 6. Update status booking langsung dari dashboard  
 
 ## Teknologi yang Digunakan
@@ -36,6 +36,6 @@ Setelah pemesanan dilakukan, bengkel akan mengonfirmasi jadwal dan memperbarui s
 ## Kelompok 10:
 
 1. Salma Aulia Nisa(2306143)
-2. Rabiul Tsani GA(2306141)
+2. Rabiul Tsani Ghifarulhaq A(2306141)
 3. Fadhlian Nur Pajri(2306147)
 4. Ruby ARdha Apriadi(2306138)
